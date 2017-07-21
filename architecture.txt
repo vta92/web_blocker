@@ -1,0 +1,4 @@
+Architecture
+Host file can be found: C:\Windows\System32\drivers\etc
+Use local hosting, running python in the background
+blocking websites within a certain time of the day.
