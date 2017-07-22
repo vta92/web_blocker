@@ -1,0 +1,5 @@
+Hosting path is different between linux and Windows
+Essentially editing the host with web pages
+time.sleep() delays the execution time for memory efficiency
+take advantage of datetime object
+format datetime accordingly
