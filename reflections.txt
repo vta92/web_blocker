@@ -3,3 +3,6 @@ Essentially editing the host with web pages
 time.sleep() delays the execution time for memory efficiency
 take advantage of datetime object
 format datetime accordingly
+use file.seek(), or just store the whole initial file
+use strip() in the original file to avoid blank spaces after truncating and writing
+to do: make a GUI and app out of this for future usage
