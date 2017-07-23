@@ -11,7 +11,7 @@ webs_list = ['www.facebook.com', 'facebook.com', 'www.youtube.com', 'youtube.com
 
 #to do, use tkinter to make an GUI for the input
 start_hour = 8
-end_hour = 20
+end_hour = 16
 
 #8am each day to 4pm will be blocked
 def start_time():
@@ -48,7 +48,7 @@ if __name__=='__main__':
                 #time.sleep(10)
 
 
-        #if not in working hours, return to the initial state as sotred earlier
+        #if not in working hours, return to the initial state as stored earlier
         else:
             ref_file = initial_state()
             with open(host_path, 'r+') as f:
